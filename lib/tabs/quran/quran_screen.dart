@@ -155,7 +155,7 @@ class Quran extends StatelessWidget {
                     onTap: () =>
                         Navigator.pushNamed(context, SuraContent.routeName
                             , arguments: suraDetails(suraName: suraNames[index],
-                                suraNumber: index + 1)),
+                                suraNumber: index)),
                     child: QuranItem(
                         suraName: suraNames[index], suraNumber: "${index + 1}"),
                   ),
