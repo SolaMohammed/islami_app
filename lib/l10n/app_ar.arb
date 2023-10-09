@@ -1,0 +1,19 @@
+{
+"islami":"اسلامي",
+"settings":"الاعدادات",
+"dark_mode":"الوضع الليلي",
+ "light_mode": "الوضع المضيء",
+  "english": "الانجليزية",
+  "language": "اللغة",
+"sura_name":"اسم السورة",
+  "sura_num":"رقم السورة",
+"arabic":"العربية",
+  "hadeeth": "الحديث",
+  "quran": "القران",
+  "quran_kareem":"القران الكريم",
+  "quran_kareem_radio": "اذاعة القران الكريم",
+  "sebha": "السبحة",
+  "tasbeeh_numbers": "عدد التسبيحات",
+  "radio": "الاذاعة",
+  "hadeeth_name": "اسم الحديث"
+}

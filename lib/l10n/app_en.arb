@@ -1,0 +1,19 @@
+{
+"islami":"Islami",
+"settings":"Settings",
+"dark_mode":"Dark Mode",
+  "light_mode": "Light Mode",
+  "english": "English",
+  "language": "Language",
+"sura_name":"Sura Name",
+  "sura_num":"Sura Number",
+"arabic":"Arabic",
+  "hadeeth": "Hadeeth",
+  "quran": "Quran",
+  "quran_kareem":"Quran Kareem",
+  "quran_kareem_radio": "Quran Kareem Radio",
+  "sebha": "Sebha",
+  "tasbeeh_numbers": "Tasbeeh Numbers",
+  "radio": "Radio",
+  "hadeeth_name": "Hadeeth Name"
+}
